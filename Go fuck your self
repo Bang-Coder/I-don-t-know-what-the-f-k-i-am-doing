@@ -1,0 +1,48 @@
+I told you I never used github so get the fuck
+Out of here
+
+<html>
+  <meta name="keywords"  content="web development,html toturials">
+  <meta name="robots" content="INDEX, FOLLOW"
+
+
+          <head>
+
+        <!--  methods ro link css and js
+      link rel="stylesheet" href="style.css">
+      <script src="main.js"></script -->
+          </head>
+
+<!---this is the body --->
+
+   <body>
+<!--<p>   hello jsvfjdb ks dksvsskha sjs snss ja sjss js sjs <strong>this is strong</strong> sjs sjs sjaebjwd nw sjs sja ajjsbd sdbsjw
+ndnr dnsjw wnd sjw ka wkw ajq <em>this is emphasized</em>ajvxsjsbjss hsisbsjs bsjans <br> jsbd sjbdjs jsbwks wja qakw qkw qkw kq djs ska sja sakq akq oa aoa wqoqbaoqnaoa </p>
+-->
+
+<!--adding links to html website-->
+<!--
+<a href="www.google.com", target="_blank">go to google</a>
+<a href="www.facebook.com", target="_blank">go to facebook<a>
+<a href="www.twitter.com", target="_blank"  >go to twitter</a>
+<a href="www.apunkagames.net", target="_blank" >go to apunkagames</a>
+-->
+
+<!--linking file available in the folder-->
+<!--
+<a href="main.js", target="_blank">go to javascript file </a>
+-->
+
+<!--insert image in html-->
+<!--
+<img src="lora" alt="image no loading">
+-->
+
+
+
+
+  </body>
+
+
+       
+</html>
